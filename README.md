@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey there](header.png)
 
 - 🔭 I’m currently working on improving my skills in Python
 - 🌱 I’m currently learning Django, Flask
