@@ -1,9 +1,5 @@
-![Hey there](header.png)
+![Hey there](github-header-image.png)
 
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrispl89&show_icons=true&count_private=true&theme=radical)
 
 ### Language Usage
 
